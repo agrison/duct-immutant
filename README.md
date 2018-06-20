@@ -1,4 +1,4 @@
-# Duct server.http.http-kit
+# Duct server.http.immutant
 
 [![Build Status](https://travis-ci.org/agrison/duct-immutant.svg?branch=master)](https://travis-ci.org/agrison/duct-immutant)
 
